@@ -22,7 +22,7 @@ Experimenting with **local AI orchestration and automation**.
 
 Below are examples of the local AI homelab running real LLM models using Ollama.
 
-### Local model stack (Ollama)
+## Local model stack (Ollama)
 
 The system currently runs multiple local models including Mixtral, Qwen, Mistral, DeepSeek Coder and others.
 
