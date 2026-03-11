@@ -1,3 +1,13 @@
+# AI Homelab on 10-Year-Old Hardware
+
+Local AI homelab running **Ollama + Docker + n8n** on:
+
+• iMac 2015 (32GB RAM)  
+• Mac mini 2012 server  
+• CPU-only LLMs  
+
+Experimenting with **local AI orchestration and automation**.
+
 ![Ollama](https://img.shields.io/badge/Ollama-Local%20LLM-blue)
 ![Docker](https://img.shields.io/badge/Docker-Containers-blue)
 ![n8n](https://img.shields.io/badge/n8n-Automation-orange)
