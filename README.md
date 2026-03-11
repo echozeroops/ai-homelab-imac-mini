@@ -50,7 +50,7 @@ It runs Ubuntu Server and hosts smaller LLM models that can handle tasks locally
 
 The Mac mini runs multiple Ollama models including Qwen and Phi.
 
-![Mac mini Ollama models](mini-ollama-list.png)
+![Mac mini Ollama models](miniserv-ollama-list.png)
 
 ---
 
