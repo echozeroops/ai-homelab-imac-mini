@@ -67,13 +67,6 @@ Because of quantization, the 7B model requires only around **5–6GB of RAM**, m
 This demonstrates that relatively large LLM models can run locally on older hardware when enough RAM is available.
 On Linux systems the Ollama runner process is visible in htop, while on macOS the model runs inside the Ollama service process.
 
-# ai-homelab-imac-mini
-Local AI homelab on old hardware (iMac 2015 + Mac mini 2012) running Ollama, Docker and n8n
-
-# Local AI Homelab on 10-Year-Old Hardware
-
-## iMac 2015 + Mac mini 2012 + Ollama + Docker + n8n
-
 ## Why this project
 
 This project explores how far **local AI infrastructure** can be pushed on older hardware without GPUs.
@@ -215,7 +208,7 @@ Return result
 
 ---
 
-# Why this project
+# Why 
 
 This is mostly an **experiment and learning project**.
 
