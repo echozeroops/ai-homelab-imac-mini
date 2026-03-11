@@ -1,3 +1,5 @@
+## Architecture
+
 ![AI Homelab Architecture](ai-homelab-architecture.png)
 
 # ai-homelab-imac-mini
