@@ -1,3 +1,8 @@
+![Ollama](https://img.shields.io/badge/Ollama-Local%20LLM-blue)
+![Docker](https://img.shields.io/badge/Docker-Containers-blue)
+![n8n](https://img.shields.io/badge/n8n-Automation-orange)
+![Self Hosted](https://img.shields.io/badge/Self%20Hosted-AI-green)
+
 ## Architecture
 
 ![AI Homelab Architecture](ai-homelab-architecture.png)
