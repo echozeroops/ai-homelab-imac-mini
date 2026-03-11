@@ -63,7 +63,9 @@ The model uses **quantization**, which reduces memory usage and allows the model
 Because of quantization, the 7B model requires only around **5–6GB of RAM**, making it possible to run on older machines like the Mac mini 2012.
 
 ![Mac mini Qwen](mini-qwen-running.png)
+
 This demonstrates that relatively large LLM models can run locally on older hardware when enough RAM is available.
+On Linux systems the Ollama runner process is visible in htop, while on macOS the model runs inside the Ollama service process.
 
 # ai-homelab-imac-mini
 Local AI homelab on old hardware (iMac 2015 + Mac mini 2012) running Ollama, Docker and n8n
