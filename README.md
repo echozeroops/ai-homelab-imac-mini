@@ -18,6 +18,30 @@ Experimenting with **local AI orchestration and automation**.
 
 ![AI Homelab Architecture](ai-homelab-architecture.png)
 
+## Demo
+
+Below are examples of the local AI homelab running real LLM models using Ollama.
+
+### Local model stack (Ollama)
+
+The system currently runs multiple local models including Mixtral, Qwen, Mistral, DeepSeek Coder and others.
+
+![Ollama models](ollama-list.png)
+
+---
+
+### Running Mixtral locally on iMac (CPU only)
+
+Example of the Mixtral model (~26GB) running locally on the iMac 2015 with 32GB RAM using Ollama.
+
+The system performs inference entirely on CPU without a dedicated GPU.
+
+![Mixtral running](imac-mixtral-running.png)
+
+---
+
+This demonstrates that relatively large LLM models can run locally on older hardware when enough RAM is available.
+
 # ai-homelab-imac-mini
 Local AI homelab on old hardware (iMac 2015 + Mac mini 2012) running Ollama, Docker and n8n
 
