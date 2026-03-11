@@ -4,6 +4,7 @@ Local AI homelab running **Ollama + Docker + n8n** on:
 
 • iMac 2015 (32GB RAM)  
 • Mac mini 2012 server (12GB RAM)
+
 • CPU-only LLMs  
 
 Experimenting with **local AI orchestration and automation**.
