@@ -25,6 +25,16 @@ Local AI homelab on old hardware (iMac 2015 + Mac mini 2012) running Ollama, Doc
 
 ## iMac 2015 + Mac mini 2012 + Ollama + Docker + n8n
 
+## Why this project
+
+This project explores how far **local AI infrastructure** can be pushed on older hardware without GPUs.
+
+The goal is to build a small self-hosted AI environment capable of:
+
+• running local LLMs  
+• orchestrating tasks  
+• automating workflows  
+• experimenting with multi-agent systems
 I wanted to see how far I could go with **local AI on old hardware**.
 
 Instead of buying GPUs or cloud compute, I built a small **AI homelab** using two machines I already had.
