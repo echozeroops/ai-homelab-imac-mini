@@ -40,6 +40,29 @@ The system performs inference entirely on CPU without a dedicated GPU.
 
 ---
 
+### Mac mini server node (Ubuntu)
+
+The Mac mini 2012 acts as a lightweight execution node in the homelab.
+
+It runs Ubuntu Server and hosts smaller LLM models that can handle tasks locally without needing the main workstation.
+
+### Local model stack on Mac mini
+
+The Mac mini runs multiple Ollama models including Qwen and Phi.
+
+![Mac mini Ollama models](mini-ollama-list.png)
+
+---
+
+### Running Qwen 7B on Mac mini
+
+Example of the Qwen 7B model running on the Mac mini server node.
+
+The model uses **quantization**, which reduces memory usage and allows the model to run efficiently on CPU-only hardware.
+
+Because of quantization, the 7B model requires only around **5–6GB of RAM**, making it possible to run on older machines like the Mac mini 2012.
+
+![Mac mini Qwen](mini-qwen-running.png)
 This demonstrates that relatively large LLM models can run locally on older hardware when enough RAM is available.
 
 # ai-homelab-imac-mini
