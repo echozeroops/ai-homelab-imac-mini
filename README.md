@@ -30,7 +30,7 @@ The system currently runs multiple local models including Mixtral, Qwen, Mistral
 
 ---
 
-### Running Mixtral locally on iMac (CPU only)
+## Running Mixtral locally on iMac (CPU only)
 
 Example of the Mixtral model (~26GB) running locally on the iMac 2015 with 32GB RAM using Ollama.
 
@@ -40,13 +40,13 @@ The system performs inference entirely on CPU without a dedicated GPU.
 
 ---
 
-### Mac mini server node (Ubuntu)
+## Mac mini server node (Ubuntu)
 
 The Mac mini 2012 acts as a lightweight execution node in the homelab.
 
 It runs Ubuntu Server and hosts smaller LLM models that can handle tasks locally without needing the main workstation.
 
-### Local model stack on Mac mini
+## Local model stack on Mac mini
 
 The Mac mini runs multiple Ollama models including Qwen and Phi.
 
@@ -54,7 +54,7 @@ The Mac mini runs multiple Ollama models including Qwen and Phi.
 
 ---
 
-### Running Qwen 7B on Mac mini
+## Running Qwen 7B on Mac mini
 
 Example of the Qwen 7B model running on the Mac mini server node.
 
@@ -159,7 +159,7 @@ Biggest surprise:
 
 Two-node system with two agents.
 
-### Agent 1 — Orchestrator (iMac)
+## Agent 1 — Orchestrator (iMac)
 
 Responsible for:
 
@@ -168,7 +168,7 @@ Responsible for:
 - generating scripts
 - delegating work
 
-### Agent 2 — Executor (Mac mini)
+## Agent 2 — Executor (Mac mini)
 
 Responsible for:
 
